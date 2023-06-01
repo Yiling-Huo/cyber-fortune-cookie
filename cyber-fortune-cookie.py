@@ -1,4 +1,4 @@
-import pygame, os, sys
+import pygame, os
 
 # read the fortunes and create a set
 with open("assets/fortunes.txt", "r") as input:
@@ -108,7 +108,7 @@ while True:
 	for event in pygame.event.get():
 		if event.type == pygame.QUIT:
 			pygame.quit()
-			sys.exit()
+			# sys.exit()
 
 	if full:
 		screen.fill('white')
