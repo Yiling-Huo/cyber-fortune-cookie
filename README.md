@@ -1,4 +1,5 @@
-# cyber-fortune-cookie
+# Cyber fortune cookie
+
 A mini fortune cookie game created with Python and pygame
 
 This game is made with Python 3.11 and pygame.
