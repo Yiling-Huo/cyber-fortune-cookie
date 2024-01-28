@@ -1,14 +1,12 @@
 # Cyber fortune cookie
 
-A mini fortune cookie game created with Python and pygame
-
-This game is made with Python 3.11 and pygame.
+A mini fortune cookie game created with Python 3.11 and pygame.
 
 ## Installation
 
 Make sure you have Python (v 3.10 or newer) in your system.
 
-Make sure pygame is installed: `pip install pygame`. 
+Make sure pygame is installed by running `pip install pygame` in a command prompt. 
 
 Clone this repository to your local directory.
 
