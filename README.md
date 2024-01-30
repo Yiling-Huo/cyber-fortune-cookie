@@ -10,4 +10,4 @@ Make sure pygame is installed by running `pip install pygame` in a command promp
 
 Clone this repository to your local directory.
 
-Run cyber-fortune-cookie.py. 
+Run cyber-fortune-cookie.pyw. 

@@ -1,6 +1,6 @@
 import cx_Freeze
 
-executables = [cx_Freeze.Executable("cyber-fortune-cookie.py", icon="icon.ico")]
+executables = [cx_Freeze.Executable("cyber-fortune-cookie.pyw", icon="icon.ico")]
 
 cx_Freeze.setup(
     name="Cyber Fortune Cookie",
